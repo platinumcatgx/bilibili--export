@@ -1,0 +1,311 @@
+[
+    {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "info": {
+                "id": 1131742857,
+                "fid": 11317428,
+                "mid": 386468057,
+                "attr": 23,
+                "title": "真知识",
+                "cover": "http://i1.hdslb.com/bfs/archive/d3be18bef9142281c2f00cd2cd8c975198195c14.jpg",
+                "upper": {
+                    "mid": 386468057,
+                    "name": "platinumcat",
+                    "face": "http://i2.hdslb.com/bfs/face/eb101ef90ebc4e9bf79f65312a22ebac84946700.jpg",
+                    "followed": false,
+                    "vip_type": 0,
+                    "vip_statue": 0
+                },
+                "cover_type": 2,
+                "cnt_info": {
+                    "collect": 0,
+                    "play": 0,
+                    "thumb_up": 0,
+                    "share": 0
+                },
+                "type": 11,
+                "intro": "",
+                "ctime": 1608326097,
+                "mtime": 1650338663,
+                "state": 0,
+                "fav_state": 0,
+                "like_state": 0,
+                "media_count": 22
+            },
+            "medias": [
+                {
+                    "id": 299123389,
+                    "type": 2,
+                    "title": "地表最强文献下载神器！一键下载、批量下载、电子书下载，统统搞定！",
+                    "cover": "http://i1.hdslb.com/bfs/archive/d3be18bef9142281c2f00cd2cd8c975198195c14.jpg",
+                    "intro": "安装包我给大家打包好了，威|信搜索【统计之光】回复【本地下载】，白嫖带走~~B站粉丝专属科研服务群，提供：文献代下、批量带下、自学教程等服务，本视频一键三连，私信获取地址。",
+                    "page": 1,
+                    "duration": 186,
+                    "upper": {
+                        "mid": 538894363,
+                        "name": "统计之光公开课",
+                        "face": "http://i1.hdslb.com/bfs/face/d71069ec9b18d2c09f0b034ade899b52bcaa288a.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 615,
+                        "play": 4745,
+                        "danmaku": 122
+                    },
+                    "link": "bilibili://video/299123389",
+                    "ctime": 1652442901,
+                    "pubtime": 1652442900,
+                    "fav_time": 1657116924,
+                    "bv_id": "BV1NF411L7QK",
+                    "bvid": "BV1NF411L7QK",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 718390643
+                    }
+                },
+                {
+                    "id": 769531438,
+                    "type": 2,
+                    "title": "手把手带你搭个超火的知识库网站！写博客、团队协作神器 wiki.js",
+                    "cover": "http://i2.hdslb.com/bfs/archive/694c448be6c5be14f6c224663b4a7a693c501216.jpg",
+                    "intro": "程序员手把手带你搭建一个精美的知识库网站 wiki.js，一行代码都不用写~完整版教程，包含踩坑过程和解决方案开源地址：https://github.com/requarks/wiki",
+                    "page": 1,
+                    "duration": 785,
+                    "upper": {
+                        "mid": 12890453,
+                        "name": "程序员鱼皮",
+                        "face": "http://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 1555,
+                        "play": 39272,
+                        "danmaku": 114
+                    },
+                    "link": "bilibili://video/769531438",
+                    "ctime": 1653798946,
+                    "pubtime": 1653798946,
+                    "fav_time": 1657116879,
+                    "bv_id": "BV1Er4y1x7mf",
+                    "bvid": "BV1Er4y1x7mf",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 732685131
+                    }
+                }
+            ],
+            "has_more": true
+        }
+    },
+    {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "info": {
+                "id": 1131742857,
+                "fid": 11317428,
+                "mid": 386468057,
+                "attr": 23,
+                "title": "真知识",
+                "cover": "http://i1.hdslb.com/bfs/archive/d3be18bef9142281c2f00cd2cd8c975198195c14.jpg",
+                "upper": {
+                    "mid": 386468057,
+                    "name": "platinumcat",
+                    "face": "http://i2.hdslb.com/bfs/face/eb101ef90ebc4e9bf79f65312a22ebac84946700.jpg",
+                    "followed": false,
+                    "vip_type": 0,
+                    "vip_statue": 0
+                },
+                "cover_type": 2,
+                "cnt_info": {
+                    "collect": 0,
+                    "play": 0,
+                    "thumb_up": 0,
+                    "share": 0
+                },
+                "type": 11,
+                "intro": "",
+                "ctime": 1608326097,
+                "mtime": 1650338663,
+                "state": 0,
+                "fav_state": 0,
+                "like_state": 0,
+                "media_count": 22
+            },
+            "medias": [
+                {
+                    "id": 210599885,
+                    "type": 2,
+                    "title": "程序员正确的PPT汇报姿势 | 3分钟学会技压全场 逼格满满 | reveal-md 使用教程",
+                    "cover": "http://i0.hdslb.com/bfs/archive/c6050d47e4008881b6adf3b61c588b17c8e0c153.jpg",
+                    "intro": "又到中国传统的年底了，程序员最烦的年终汇报环节。这个视频3分钟让你不用作PPT，只写Markdown就能完成逼格满满的年终汇报。",
+                    "page": 1,
+                    "duration": 153,
+                    "upper": {
+                        "mid": 165659472,
+                        "name": "技术胖",
+                        "face": "http://i0.hdslb.com/bfs/face/c81969907b5c286b50d02400e7d54b13595f09bb.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 2305,
+                        "play": 40258,
+                        "danmaku": 22
+                    },
+                    "link": "bilibili://video/210599885",
+                    "ctime": 1641810626,
+                    "pubtime": 1641810620,
+                    "fav_time": 1650338583,
+                    "bv_id": "BV1za411q7E4",
+                    "bvid": "BV1za411q7E4",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 481283344
+                    }
+                },
+                {
+                    "id": 337724952,
+                    "type": 2,
+                    "title": "一些我觉得不错的大厂的技术博客和视频",
+                    "cover": "http://i2.hdslb.com/bfs/archive/c6dfb7e63d5817154e3123ff7424de06b63c649a.jpg",
+                    "intro": "",
+                    "page": 1,
+                    "duration": 76,
+                    "upper": {
+                        "mid": 427542570,
+                        "name": "Five在努力",
+                        "face": "http://i0.hdslb.com/bfs/face/f162422f25e1d083a203a7a9239ec9b2fd176fd9.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 2014,
+                        "play": 10510,
+                        "danmaku": 1
+                    },
+                    "link": "bilibili://video/337724952",
+                    "ctime": 1640689609,
+                    "pubtime": 1640689609,
+                    "fav_time": 1642039880,
+                    "bv_id": "BV13R4y137GW",
+                    "bvid": "BV13R4y137GW",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 470503580
+                    }
+                }
+            ],
+            "has_more": false
+        }
+    },
+    {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "info": {
+                "id": 1670196357,
+                "fid": 16701963,
+                "mid": 386468057,
+                "attr": 23,
+                "title": "后端",
+                "cover": "http://i1.hdslb.com/bfs/archive/2858afd9500771d558ed62d00e51262325c98271.jpg",
+                "upper": {
+                    "mid": 386468057,
+                    "name": "platinumcat",
+                    "face": "http://i2.hdslb.com/bfs/face/eb101ef90ebc4e9bf79f65312a22ebac84946700.jpg",
+                    "followed": false,
+                    "vip_type": 0,
+                    "vip_statue": 0
+                },
+                "cover_type": 2,
+                "cnt_info": {
+                    "collect": 0,
+                    "play": 0,
+                    "thumb_up": 0,
+                    "share": 0
+                },
+                "type": 11,
+                "intro": "",
+                "ctime": 1657116462,
+                "mtime": 1657440479,
+                "state": 0,
+                "fav_state": 0,
+                "like_state": 0,
+                "media_count": 4
+            },
+            "medias": [
+                {
+                    "id": 854757398,
+                    "type": 2,
+                    "title": "程序员的100个基本   你需要从普通走向优秀 拿去复制、实践、照做就好",
+                    "cover": "http://i1.hdslb.com/bfs/archive/2858afd9500771d558ed62d00e51262325c98271.jpg",
+                    "intro": "《100个基本》是松浦弥太郎的人生信条，而这《优秀程序员的100个基本》，也是我职业生涯的信条。通过我和徒弟的十多年实践，我觉的这套开发编程的软技能，让他们能成功并不是偶然，而是可以总结出来，让任何人都拿去复制、实践，从而变成优秀的程序员。",
+                    "page": 1,
+                    "duration": 441,
+                    "upper": {
+                        "mid": 165659472,
+                        "name": "技术胖",
+                        "face": "http://i0.hdslb.com/bfs/face/c81969907b5c286b50d02400e7d54b13595f09bb.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 1682,
+                        "play": 43749,
+                        "danmaku": 60
+                    },
+                    "link": "bilibili://video/854757398",
+                    "ctime": 1654741807,
+                    "pubtime": 1654743600,
+                    "fav_time": 1657116885,
+                    "bv_id": "BV1fL4y1K7QR",
+                    "bvid": "BV1fL4y1K7QR",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 740941116
+                    }
+                },
+                {
+                    "id": 211641164,
+                    "type": 2,
+                    "title": "计算机专业学生能做到以下几点，绝对可以在北上广杭深拿到15K以上",
+                    "cover": "http://i0.hdslb.com/bfs/archive/456f62e26eb95c1668cb534b8bad056861aea670.jpg",
+                    "intro": "同学们如果觉得有帮助的话，不要白嫖UP主的哦，给UP主三联下吧，这样可以让更多的同学看到！如果同学们还有什么计算机相关，互联网大厂求职，技术方向等等问题，可以加入粉丝裙【827667387】一起学习交流的喔~",
+                    "page": 1,
+                    "duration": 303,
+                    "upper": {
+                        "mid": 1259504936,
+                        "name": "编程不加班",
+                        "face": "http://i2.hdslb.com/bfs/face/692628242c8da43432f7699058dd197257463c9e.jpg"
+                    },
+                    "attr": 0,
+                    "cnt_info": {
+                        "collect": 1761,
+                        "play": 19307,
+                        "danmaku": 111
+                    },
+                    "link": "bilibili://video/211641164",
+                    "ctime": 1645443618,
+                    "pubtime": 1645443616,
+                    "fav_time": 1657116804,
+                    "bv_id": "BV1ca411C7yR",
+                    "bvid": "BV1ca411C7yR",
+                    "season": null,
+                    "ogv": null,
+                    "ugc": {
+                        "first_cid": 513864486
+                    }
+                }
+            ],
+            "has_more": false
+        }
+    }
+]
